@@ -1,8 +1,4 @@
----
-operator: jitender joshi
----
-
-Project Overview
+# Project Overview
 
 The Dashboard for Animal Welfare is here! The purpose of this dashboard
 is to present important information about animal welfare in different
